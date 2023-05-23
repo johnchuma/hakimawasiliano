@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hakimawasiliano/static/css/main.2a32ad54.css",
-    "main.js": "/hakimawasiliano/static/js/main.bab75fc3.js",
+    "main.js": "/hakimawasiliano/static/js/main.78cd176c.js",
     "static/js/787.bd2fcb25.chunk.js": "/hakimawasiliano/static/js/787.bd2fcb25.chunk.js",
     "static/media/Carmen Sans Bold.otf": "/hakimawasiliano/static/media/Carmen Sans Bold.244d303acabd46873952.otf",
     "static/media/Carmen Sans Regular.otf": "/hakimawasiliano/static/media/Carmen Sans Regular.dc90344e180f36b699b2.otf",
@@ -22,11 +22,11 @@
     "static/media/logo.svg": "/hakimawasiliano/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hakimawasiliano/index.html",
     "main.2a32ad54.css.map": "/hakimawasiliano/static/css/main.2a32ad54.css.map",
-    "main.bab75fc3.js.map": "/hakimawasiliano/static/js/main.bab75fc3.js.map",
+    "main.78cd176c.js.map": "/hakimawasiliano/static/js/main.78cd176c.js.map",
     "787.bd2fcb25.chunk.js.map": "/hakimawasiliano/static/js/787.bd2fcb25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a32ad54.css",
-    "static/js/main.bab75fc3.js"
+    "static/js/main.78cd176c.js"
   ]
 }
