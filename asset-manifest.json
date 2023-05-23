@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/hakimawasiliano/static/css/main.2a32ad54.css",
+    "main.js": "/hakimawasiliano/static/js/main.bab75fc3.js",
+    "static/js/787.bd2fcb25.chunk.js": "/hakimawasiliano/static/js/787.bd2fcb25.chunk.js",
+    "static/media/Carmen Sans Bold.otf": "/hakimawasiliano/static/media/Carmen Sans Bold.244d303acabd46873952.otf",
+    "static/media/Carmen Sans Regular.otf": "/hakimawasiliano/static/media/Carmen Sans Regular.dc90344e180f36b699b2.otf",
+    "static/media/Carmen Sans Light.otf": "/hakimawasiliano/static/media/Carmen Sans Light.4a7c98683af4c462c89b.otf",
+    "static/media/CaviarDreams_BoldItalic.ttf": "/hakimawasiliano/static/media/CaviarDreams_BoldItalic.f5500499175e475b07a0.ttf",
+    "static/media/CaviarDreams_Italic.ttf": "/hakimawasiliano/static/media/CaviarDreams_Italic.0c76ebb1c07ff05ceccc.ttf",
+    "static/media/MessinaSans-BookItalic.ttf": "/hakimawasiliano/static/media/MessinaSans-BookItalic.5a2f9bb8c06032d3b1de.ttf",
+    "static/media/MessinaSans-RegularItalic.ttf": "/hakimawasiliano/static/media/MessinaSans-RegularItalic.267ae8dc11e8c30e5da5.ttf",
+    "static/media/MessinaSans-Light.ttf": "/hakimawasiliano/static/media/MessinaSans-Light.f571f2f3a4042e5b1695.ttf",
+    "static/media/MessinaSans-Regular.ttf": "/hakimawasiliano/static/media/MessinaSans-Regular.b54685987d42a6d01e05.ttf",
+    "static/media/MessinaSans-Bold.ttf": "/hakimawasiliano/static/media/MessinaSans-Bold.90edebce7025f3385b15.ttf",
+    "static/media/CaviarDreams.ttf": "/hakimawasiliano/static/media/CaviarDreams.174b0a13f7e49c169450.ttf",
+    "static/media/CaviarDreams_Bold.ttf": "/hakimawasiliano/static/media/CaviarDreams_Bold.1062ba91167e0c325786.ttf",
+    "static/media/Valeria - Medium.otf": "/hakimawasiliano/static/media/Valeria - Medium.7fce9582fc591f86b897.otf",
+    "static/media/AeonikTRIAL-Bold.otf": "/hakimawasiliano/static/media/AeonikTRIAL-Bold.bb271c04181fa945fbbe.otf",
+    "static/media/AeonikTRIAL-Light.otf": "/hakimawasiliano/static/media/AeonikTRIAL-Light.009c9821ae675a01f868.otf",
+    "static/media/AeonikTRIAL-Regular.otf": "/hakimawasiliano/static/media/AeonikTRIAL-Regular.f252af9282d8460f6582.otf",
+    "static/media/logo.svg": "/hakimawasiliano/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hakimawasiliano/index.html",
+    "main.2a32ad54.css.map": "/hakimawasiliano/static/css/main.2a32ad54.css.map",
+    "main.bab75fc3.js.map": "/hakimawasiliano/static/js/main.bab75fc3.js.map",
+    "787.bd2fcb25.chunk.js.map": "/hakimawasiliano/static/js/787.bd2fcb25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a32ad54.css",
+    "static/js/main.bab75fc3.js"
+  ]
+}
